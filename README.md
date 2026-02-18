@@ -8,8 +8,22 @@
 **GitHub** → https://github.com/shohancs/PropVerify  
 
 
+### Instant Demo Access
+
+| Role            | Login URL                               | Email                | Password |
+|-----------------|-----------------------------------------|----------------------|----------|
+| Super Admin     | /admin/index.php                        | admin@gmail.com      | 12345    |
+| Field Checker   | /admin/fieldlogin.php                   | field@gmail.com      | 12345    |
+| Seller          | /login.php → “Login Seller Account”     | seller@gmail.com     | 12345    |
+| Regular User    | /login.php → “Login User Account”       | user@gmail.com       | 12345    |
+
+<br>
+
+
 A complete, revenue-generating real estate platform built **100% from scratch using raw PHP & MySQL** — **zero framework, zero Laravel, zero Composer**.  
 Fully deployed, tested, and ready to go live commercially tomorrow.
+
+
 
 ### Why This Project Gets Immediate Interview Calls
 
@@ -62,14 +76,7 @@ Fully deployed, tested, and ready to go live commercially tomorrow.
 - Google Maps JavaScript API
 - Chart.js
 
-### Instant Demo Access
 
-| Role            | Login URL                               | Email                | Password |
-|-----------------|-----------------------------------------|----------------------|----------|
-| Super Admin     | /admin/index.php                        | admin@gmail.com      | 12345    |
-| Field Checker   | /admin/fieldlogin.php                   | field@gmail.com      | 12345    |
-| Seller          | /login.php → “Login Seller Account”     | seller@gmail.com     | 12345    |
-| Regular User    | /login.php → “Login User Account”       | user@gmail.com       | 12345    |
 
 
 
