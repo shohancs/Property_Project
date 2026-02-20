@@ -84,7 +84,6 @@ Here are some key screens from PropVerify:
 ![Admin Revenue Dashboard]<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/2bce224c-f897-4c1f-9d79-f087618aa516" />
 *Super Admin Revenue Dashboard with Charts*
 
-
 ![Property Detail Page]<img width="1405" height="3965" alt="screencapture-shohancs-projects-PropVerify-details-php-2026-02-21-02_28_45" src="https://github.com/user-attachments/assets/e372574a-d780-48c9-9add-c33a07a78d25" />
 *Property Detail with Google Maps & Owner Reveal*
 
@@ -99,7 +98,11 @@ Here are some key screens from PropVerify:
 <img width="1898" height="669" alt="image" src="https://github.com/user-attachments/assets/53c5aea3-4991-4f67-babd-6b95b636d4e0" />
 
 ![User Hotel Booking panel]
-<img width="1405" height="3820" alt="screencapture-shohancs-projects-PropVerify-details-php-2026-02-21-02_28_45" src="https://github.com/user-attachments/assets/7c5d548a-d589-49f5-adee-e493a52e77e6" />
+<img width="1459" height="896" alt="image" src="https://github.com/user-attachments/assets/b3531005-6cdc-44d3-9244-749a1b7ab240" />
+
+
+![Index Page rent and buy section]
+<img width="1454" height="2525" alt="screencapture-shohancs-projects-PropVerify-index-php-2026-02-21-03_11_08 (1)" src="https://github.com/user-attachments/assets/c1e518fb-5b6d-4fb6-a910-e41e25fd8179" />
 
 
 
