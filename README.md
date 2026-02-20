@@ -98,6 +98,10 @@ Here are some key screens from PropVerify:
 ![Seller Dashboard invoice activated panel]
 <img width="1898" height="669" alt="image" src="https://github.com/user-attachments/assets/53c5aea3-4991-4f67-babd-6b95b636d4e0" />
 
+![User Hotel Booking panel]
+<img width="1405" height="3820" alt="screencapture-shohancs-projects-PropVerify-details-php-2026-02-21-02_28_45" src="https://github.com/user-attachments/assets/7c5d548a-d589-49f5-adee-e493a52e77e6" />
+
+
 
 ### Local Installation (Under 5 Minutes)
 
